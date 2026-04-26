@@ -21,7 +21,7 @@ Installation
 pip install requests
 
 Run the App
-python main.py
+python darkleak2.0.py
 
 Author
 Raamesh Manirajan
