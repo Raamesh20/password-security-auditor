@@ -1,2 +1,27 @@
-# password-security-auditor
-A Python-based password security tool that analyzes password strength, detects common vulnerabilities, checks for data breaches using the Have I Been Pwned API, and generates secure passwords with a modern GUI.
+Password Security Auditor
+
+A modern cybersecurity tool built using Python that analyzes password strength and detects potential vulnerabilities.
+
+Features
+
+Real-time password strength analysis
+Entropy-based scoring system
+Detection of weak patterns (e.g. 123, qwerty)
+Breach detection using Have I Been Pwned API
+Secure password generator
+Modern GUI using Tkinter
+
+Technologies Used
+
+Python
+Tkinter
+Requests API
+
+Installation
+pip install requests
+
+Run the App
+python main.py
+
+Author
+Raamesh Manirajan
